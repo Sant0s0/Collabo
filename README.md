@@ -20,4 +20,4 @@ def  convert(x) -> str:
 ```
 
 ## Santiago
-- Cree una rama llamada "santiago" para trabajar en el script principal del proyecto.
+- Cree una rama llamada **"santiago"** para trabajar en el script principal del proyecto.
